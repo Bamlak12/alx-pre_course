@@ -1,2 +1,2 @@
 My first readme
-alx course is grate
+alx course is so grate
